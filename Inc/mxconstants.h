@@ -68,8 +68,6 @@
 #define RMII_TXD0_GPIO_Port GPIOG
 #define ARDUINO_SDA_D14_Pin GPIO_PIN_9
 #define ARDUINO_SDA_D14_GPIO_Port GPIOB
-#define VCP_RX_Pin GPIO_PIN_7
-#define VCP_RX_GPIO_Port GPIOB
 #define QSPI_NCS_Pin GPIO_PIN_6
 #define QSPI_NCS_GPIO_Port GPIOB
 #define RMII_TX_EN_Pin GPIO_PIN_11
@@ -136,8 +134,6 @@
 #define SDMMC_D0_GPIO_Port GPIOD
 #define TP3_Pin GPIO_PIN_15
 #define TP3_GPIO_Port GPIOH
-#define ARDUINO_SCK_D13_Pin GPIO_PIN_1
-#define ARDUINO_SCK_D13_GPIO_Port GPIOI
 #define OTG_FS_ID_Pin GPIO_PIN_10
 #define OTG_FS_ID_GPIO_Port GPIOA
 #define LCD_DISP_Pin GPIO_PIN_12
